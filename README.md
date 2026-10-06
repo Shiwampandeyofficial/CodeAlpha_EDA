@@ -5,14 +5,14 @@ Exploratory Data Analysis on the Titanic dataset, completed as part of the CodeA
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 
-## What I Did
+## What I Did 
 - Explored data structure, data types and summary statistics
 - Handled missing values (Age, Cabin, Embarked)
 - Visualized survival by gender, class and age
 - Built a correlation heatmap
 - Wrote insights under every chart
 
-## Key Findings
+## Some Key Findings That Are:
 - Only about 38% of passengers survived
 - Females had a much higher survival rate than males
 - 1st class passengers survived more than 3rd class
